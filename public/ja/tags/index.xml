@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Usami Lab.</title>
+    <link>/ja/tags/</link>
+    <description>Recent content in Tags on Usami Lab.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>/ja/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/ja/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Computing</title>
+      <link>/ja/tags/approximate-computing/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:03 +0900</pubDate>
+      
+      <guid>/ja/tags/approximate-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/ja/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/ja/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Reconfigrable Processor</title>
+      <link>/ja/tags/dynamic-reconfigrable-processor/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:03 +0900</pubDate>
+      
+      <guid>/ja/tags/dynamic-reconfigrable-processor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non Voliting</title>
+      <link>/ja/tags/non-voliting/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:01 +0900</pubDate>
+      
+      <guid>/ja/tags/non-voliting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Gating</title>
+      <link>/ja/tags/power-gating/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/ja/tags/power-gating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

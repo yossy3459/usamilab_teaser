@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Usami Lab.</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Usami Lab.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Usami Lab.</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>芝浦工業大学 工学部 情報工学科 計算機アーキテクチャ研究室 (宇佐美研究室) 最先端のコンピュータが大きな危機に直面しているのを知っていますか？ チッ</description>
+    </item>
+    
+    <item>
+      <title>最新情報</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description>2018/08/XX ホームページを刷新しました。</description>
+    </item>
+    
+    <item>
+      <title>研究内容</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>研究発表</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>2016年度 論文誌論文 工藤優, 宇佐美公良, &amp;ldquo;細粒度パワーゲーティングにおけるリークモニタの直接駆動によるスリープ制御&amp;rdquo</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/biography/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/biography/</guid>
+      <description>教授紹介 略歴 年月 学歴・職歴 1982年 早稲田大学 理工学部電気工学科 卒業 1984年 早稲田大学 大学院理工学研究科電気専攻 修了 1984年 東芝に入社 半</description>
+    </item>
+    
+    <item>
+      <title>メンバー</title>
+      <link>/home/member/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/member/</guid>
+      <description>2018年度 メンバー (15期生) 修士2年 堀米 亮汰 真崎 諒 修士1年 秋葉 爽輔 尾地 肇 佐藤 大介 篠崎 直人 武吉 雄貴 学部4年 荒木 彦行 石原 浩樹 川村 孟矢 北田 修平</description>
+    </item>
+    
+    <item>
+      <title>講義情報</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>前期授業 学年 科目 曜日 時限 キャンパス シラバス 2年 コンピュータアーキテクチャ2 月曜 4限 大宮 リンク 3年 高度情報演習1A 水曜 3,4限 豊洲 リンク 3年 集</description>
+    </item>
+    
+    <item>
+      <title>研究室生活</title>
+      <link>/home/lab_life/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/lab_life/</guid>
+      <description>最先端のコンピュータが大きな危機に直面しているのを知っていますか？ チップの消費電力が大きくなりすぎるため、これ以上、動作速度を上げられない危</description>
+    </item>
+    
+    <item>
+      <title>リンク</title>
+      <link>/home/link/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/link/</guid>
+      <description>芝浦工業大学 芝浦工業大学 工学部 情報工学科 芝浦工業大学 グリーンイノベーション研究センター 5大学 科研S共同研究プロジェクト LEAP共同研究プロジ</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

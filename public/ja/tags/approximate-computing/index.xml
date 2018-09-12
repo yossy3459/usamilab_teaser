@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Approximate Computing on Usami Lab.</title>
+    <link>/ja/tags/approximate-computing/</link>
+    <description>Recent content in Approximate Computing on Usami Lab.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:03 +0900</lastBuildDate>
+    
+	<atom:link href="/ja/tags/approximate-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>アプロキシメートコンピューティング</title>
+      <link>/ja/project/approximate_computing/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:03 +0900</pubDate>
+      
+      <guid>/ja/project/approximate_computing/</guid>
+      <description>アプロキシメートコンピューティングとは aaa bbb ccc 研究例 aaa bbb ccc</description>
+    </item>
+    
+  </channel>
+</rss>

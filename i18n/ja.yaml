@@ -1,0 +1,160 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: ナビゲーション
+
+- id: table_of_contents
+  translation: 目次
+
+# General
+
+- id: related
+  translation: 関連
+
+- id: minute_read
+  translation: 分で読めます
+
+- id: previous
+  translation: 前
+
+- id: next
+  translation: 次
+
+- id: figure
+  translation: "Figure %d:"
+
+# Buttons
+
+- id: btn_preprint
+  translation: 査読前原稿
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: 引用
+
+- id: btn_slides
+  translation: スライド
+
+- id: btn_video
+  translation: ビデオ
+
+- id: btn_code
+  translation: コード
+
+- id: btn_dataset
+  translation: データセット
+
+- id: btn_project
+  translation: プロジェクト
+
+- id: btn_poster
+  translation: ポスター
+
+- id: btn_source
+  translation: 元文章
+
+- id: btn_copy
+  translation: 複製
+
+- id: btn_download
+  translation: ダウンロード
+
+# About widget
+
+- id: interests
+  translation: 分野
+
+- id: education
+  translation: 学歴
+
+# Publications widget
+
+- id: more_publications
+  translation: 他の出版物
+
+# Posts widget
+
+- id: continue_reading
+  translation: 継続中
+
+- id: more_posts
+  translation: 他の投稿
+
+# Talks widget
+
+- id: more_talks
+  translation: 他のプレゼン
+
+# Publication/Talk details
+
+- id: abstract
+  translation: 概要
+
+- id: publication
+  translation: 投稿場所
+
+- id: publication_type
+  translation: 投稿の種類
+
+- id: date
+  translation: 日付
+
+- id: last_updated
+  translation: 最終更新日
+
+- id: links
+  translation: リンク
+
+- id: event
+  translation: イベント
+
+- id: location
+  translation: 場所
+
+# Filtering
+
+- id: filter_by_type
+  translation: フィルター(種類)
+
+- id: filter_all
+  translation: フィルター(すべて)
+
+# Project details
+
+- id: open_project_site
+  translation: プロジェクトサイトを開く
+
+# Default node titles
+
+- id: posts
+  translation: 投稿
+
+- id: publications
+  translation: 研究発表
+
+- id: talks
+  translation: 公演
+
+- id: projects
+  translation: 研究内容
+
+# Error 404
+
+- id: page_not_found
+  translation: 指定されたページはありません。
+
+- id: 404_recommendations
+  translation: もしかして こちらのページをお探しですか?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: このサイトではCookieを利用します.
+
+- id: cookie_dismiss
+  translation: Got it!
+
+- id: cookie_learn
+  translation: Learn more

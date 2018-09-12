@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>/ja/project/approximate_computing/</loc>
+      <lastmod>2018-08-02T00:00:03+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/project/dynamic_reconfigrable_processor/</loc>
+      <lastmod>2018-08-02T00:00:03+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/project/non_voliting/</loc>
+      <lastmod>2018-08-02T00:00:01+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/project/power_gating/</loc>
+      <lastmod>2018-08-02T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/member/alumni/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/post/getting-started/</loc>
+      <lastmod>2018-07-13T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/tags/academic/</loc>
+      <lastmod>2018-07-13T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/tags/approximate-computing/</loc>
+      <lastmod>2018-08-02T00:00:03+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/ja/categories/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="/en/categories/" hreflang="en"/>
+    
+      <loc>/ja/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/tags/dynamic-reconfigrable-processor/</loc>
+      <lastmod>2018-08-02T00:00:03+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/member/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/tags/non-voliting/</loc>
+      <lastmod>2018-08-02T00:00:01+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/post/</loc>
+      <lastmod>2018-07-13T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/tags/power-gating/</loc>
+      <lastmod>2018-08-02T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/ja/project/</loc>
+      <lastmod>2018-08-02T00:00:03+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/ja/publication_types/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="/en/publication_types/" hreflang="en"/>
+    
+      <loc>/ja/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/ja/tags/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="/en/tags/" hreflang="en"/>
+    
+      <loc>/ja/tags/</loc>
+      <lastmod>2018-07-13T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/ja/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="/en/" hreflang="en"/>
+    
+      <loc>/ja/</loc>
+      <lastmod>2017-10-15T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
