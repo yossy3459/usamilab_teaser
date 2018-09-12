@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Usami Lab.</title>
-    <link>/en/categories/</link>
+    <link>https://yossy3459.github.io/usamilab-teaser/en/categories/</link>
     <description>Recent content in Categories on Usami Lab.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
     
-	<atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yossy3459.github.io/usamilab-teaser/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

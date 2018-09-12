@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Old_publications on Usami Lab.</title>
+    <link>https://yossy3459.github.io/usamilab-teaser/ja/old_publication/</link>
+    <description>Recent content in Old_publications on Usami Lab.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
+    <lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://yossy3459.github.io/usamilab-teaser/ja/old_publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>過去の研究発表</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/old_publication/list/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/old_publication/list/</guid>
+      <description>2014年度 国際学会 S. Nakamura, K. Usami, “Level Converter Design for Ultra-low Voltage Operation in FDSOI Devices”, The 29th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;14), Phuket, Thailand, July 1-4, 2014. K. Usami, M. Miyauchi, M. Kudo, K. Takagi, H. Amano, M. Namiki, M. Kondo, H. Nakamura, “</description>
+    </item>
+    
+  </channel>
+</rss>

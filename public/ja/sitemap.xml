@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>/ja/project/approximate_computing/</loc>
-      <lastmod>2018-08-02T00:00:03+09:00</lastmod>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/project/approximate_computing/</loc>
+      <lastmod>2018-08-09T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -14,8 +14,8 @@
     
     <url>
     
-      <loc>/ja/project/dynamic_reconfigrable_processor/</loc>
-      <lastmod>2018-08-02T00:00:03+09:00</lastmod>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/member/alumni/</loc>
+      <lastmod>2018-08-10T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -23,8 +23,11 @@
     
     <url>
     
-      <loc>/ja/project/non_voliting/</loc>
-      <lastmod>2018-08-02T00:00:01+09:00</lastmod>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/old_publication/list/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/old_publication/list/" hreflang="en"/>
+    
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/old_publication/list/</loc>
+      <lastmod>2018-08-10T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -32,7 +35,7 @@
     
     <url>
     
-      <loc>/ja/project/power_gating/</loc>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/project/low_energy_techniques/</loc>
       <lastmod>2018-08-02T00:00:00+09:00</lastmod>
     </url>
     
@@ -41,8 +44,8 @@
     
     <url>
     
-      <loc>/ja/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/project/non_voliting/</loc>
+      <lastmod>2018-08-02T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -50,8 +53,8 @@
     
     <url>
     
-      <loc>/ja/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/project/dynamic_reconfigrable_processor/</loc>
+      <lastmod>2018-08-01T00:01:00+09:00</lastmod>
     </url>
     
   
@@ -59,16 +62,7 @@
     
     <url>
     
-      <loc>/ja/member/alumni/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/ja/project/example-external-project/</loc>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+09:00</lastmod>
     </url>
     
@@ -77,17 +71,10 @@
     
     <url>
     
-      <loc>/ja/post/getting-started/</loc>
-      <lastmod>2018-07-13T00:00:00+09:00</lastmod>
-    </url>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/categories/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/categories/" hreflang="en"/>
     
-  
-    
-    
-    <url>
-    
-      <loc>/ja/tags/academic/</loc>
-      <lastmod>2018-07-13T00:00:00+09:00</lastmod>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -96,79 +83,7 @@
     
     <url>
     
-      <loc>/ja/tags/approximate-computing/</loc>
-      <lastmod>2018-08-02T00:00:03+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/ja/categories/" hreflang="ja"/>
-      <xhtml:link rel="alternate" href="/en/categories/" hreflang="en"/>
-    
-      <loc>/ja/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/ja/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/ja/tags/dynamic-reconfigrable-processor/</loc>
-      <lastmod>2018-08-02T00:00:03+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/ja/member/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/ja/tags/non-voliting/</loc>
-      <lastmod>2018-08-02T00:00:01+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/ja/post/</loc>
-      <lastmod>2018-07-13T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/ja/tags/power-gating/</loc>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/tags/coop/</loc>
       <lastmod>2018-08-02T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
@@ -178,8 +93,8 @@
     
     <url>
     
-      <loc>/ja/project/</loc>
-      <lastmod>2018-08-02T00:00:03+09:00</lastmod>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/tags/design/</loc>
+      <lastmod>2018-08-02T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -188,10 +103,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/ja/publication_types/" hreflang="ja"/>
-      <xhtml:link rel="alternate" href="/en/publication_types/" hreflang="en"/>
-    
-      <loc>/ja/publication_types/</loc>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/tags/fpga/</loc>
+      <lastmod>2018-08-09T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -200,11 +113,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/ja/tags/" hreflang="ja"/>
-      <xhtml:link rel="alternate" href="/en/tags/" hreflang="en"/>
-    
-      <loc>/ja/tags/</loc>
-      <lastmod>2018-07-13T00:00:00+09:00</lastmod>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/tags/low-energy/</loc>
+      <lastmod>2018-08-09T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -213,10 +123,78 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/ja/" hreflang="ja"/>
-      <xhtml:link rel="alternate" href="/en/" hreflang="en"/>
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/member/</loc>
+      <lastmod>2018-08-10T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
     
-      <loc>/ja/</loc>
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/old_publication/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/old_publication/" hreflang="en"/>
+    
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/old_publication/</loc>
+      <lastmod>2018-08-10T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/project/</loc>
+      <lastmod>2018-08-09T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/publication_types/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/publication_types/" hreflang="en"/>
+    
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/tags/speed-up/</loc>
+      <lastmod>2018-08-09T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/tags/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/tags/" hreflang="en"/>
+    
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/tags/</loc>
+      <lastmod>2018-08-02T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/" hreflang="en"/>
+    
+      <loc>https://yossy3459.github.io/usamilab-teaser/ja/</loc>
       <lastmod>2017-10-15T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>

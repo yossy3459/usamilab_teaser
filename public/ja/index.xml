@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Usami Lab. on Usami Lab.</title>
-    <link>/ja/</link>
+    <link>https://yossy3459.github.io/usamilab-teaser/ja/</link>
     <description>Recent content in Usami Lab. on Usami Lab.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
-    <atom:link href="/ja/" rel="self" type="application/rss+xml" />
+    <atom:link href="/usamilab-teaser/ja/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>アプロキシメートコンピューティング</title>
-      <link>/ja/project/approximate_computing/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:03 +0900</pubDate>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/project/approximate_computing/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0900</pubDate>
       
-      <guid>/ja/project/approximate_computing/</guid>
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/project/approximate_computing/</guid>
       <description>
 
-&lt;h3 id=&#34;アプロキシメートコンピューティングとは&#34;&gt;アプロキシメートコンピューティングとは&lt;/h3&gt;
+&lt;h3 id=&#34;アプロキシメートコンピューティング-approximate-computing-とは&#34;&gt;アプロキシメートコンピューティング(Approximate Computing)とは&lt;/h3&gt;
 
-&lt;p&gt;aaa&lt;/p&gt;
+&lt;p&gt;人間は多少の不正確な情報でも認識ができる特性を利用し、演算精度を犠牲に消費電力の低減や処理速度の向上を図ります。&lt;/p&gt;
 
-&lt;p&gt;bbb&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yossy3459.github.io/usamilab-teaser/img/approximate_computing.png&#34; alt=&#34;アプロキシメートコンピューティングによる画像劣化の例&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;ccc&lt;/p&gt;
+&lt;p&gt;左下の図は、画像を劣化させてはいますが、「画像に写っているものが何であるか」を認識することが可能です。&lt;/p&gt;
 
 &lt;h3 id=&#34;研究例&#34;&gt;研究例&lt;/h3&gt;
 
@@ -37,37 +37,374 @@
     </item>
     
     <item>
-      <title>動的再構成プロセッサ</title>
-      <link>/ja/project/dynamic_reconfigrable_processor/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:03 +0900</pubDate>
+      <title>卒業生</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/member/alumni/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0900</pubDate>
       
-      <guid>/ja/project/dynamic_reconfigrable_processor/</guid>
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/member/alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>過去の研究発表</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/old_publication/list/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/old_publication/list/</guid>
       <description>
 
-&lt;h3 id=&#34;アプロキシメートコンピューティングとは&#34;&gt;アプロキシメートコンピューティングとは&lt;/h3&gt;
+&lt;h3 id=&#34;2014年度&#34;&gt;2014年度&lt;/h3&gt;
 
-&lt;p&gt;aaa&lt;/p&gt;
+&lt;h4 id=&#34;国際学会&#34;&gt;国際学会&lt;/h4&gt;
 
-&lt;p&gt;bbb&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;S. Nakamura, K. Usami, “Level Converter Design for Ultra-low Voltage Operation in FDSOI Devices”, The 29th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;14), Phuket, Thailand, July 1-4, 2014.&lt;/li&gt;
+&lt;li&gt;K. Usami, M. Miyauchi, M. Kudo, K. Takagi, H. Amano, M. Namiki, M. Kondo, H. Nakamura, “Unbalanced Buffer Tree Synthesis to Suppress Ground Bounce for Fine-grain Power Gating”, International Symposium on System-on-Chip 2014, Tampere, Finland, October 28-29, 2014. Best Paper Award 受賞.
+&lt;a href=&#34;http://soc.cs.tut.fi/2014/Best_paper_award.php.html&#34;&gt;International Symposium on System-on-Chip 2014 Best Paper Award&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;ccc&lt;/p&gt;
+&lt;h3 id=&#34;2013年度&#34;&gt;2013年度&lt;/h3&gt;
 
-&lt;h3 id=&#34;研究例&#34;&gt;研究例&lt;/h3&gt;
+&lt;h4 id=&#34;国際学会-1&#34;&gt;国際学会&lt;/h4&gt;
 
-&lt;p&gt;aaa&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;M. Kudo, K. Usami, &amp;quot;Sleep Control Using Detection of Virtual Ground Voltage for Fine-Grain Power Gating&amp;quot;, The 28th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;13), pp.392-395, June 30 - July 3, 2013, Yeosu, Korea.&lt;/li&gt;
+&lt;li&gt;K. Usami, M. Kudo, K. Matsunaga, T. Kosaka, Y. Tsurui, W. Wang, H. Amano, H. Kobayashi, R. Sakamoto, M. Namiki, M. Kondo, H. Nakamura, “Design and Control Methodology for Fine Grain Power Gating based on Energy Characterization and Code Profiling of Microprocessors”, IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC’14), Singapore, Jan. 20-23, 2014.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;bbb&lt;/p&gt;
+&lt;h4 id=&#34;国内研究会&#34;&gt;国内研究会&lt;/h4&gt;
 
-&lt;p&gt;ccc&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;中村昌平, 宇佐美公良, “薄膜BOX-SOIを用いた超低電圧向けレベルシフタ回路の検討”, 電子情報通信学会VLD研究会, 北九州国際会議場,2013年5月16日発表．&lt;/li&gt;
+&lt;li&gt;三枝樹規, 宇佐美公良, “薄膜BOX-SOIにおける動的なマルチVth技術に関する設計手法”, 電子情報通信学会VLD研究会, 沖縄, 2014.3.5.&lt;/li&gt;
+&lt;li&gt;和田達矢, 宇佐美公良, “SOTBでのDVSに向けた温度モニタ回路の検討”, 電子情報通信学会VLD研究会, 沖縄, 2014.3.5.&lt;/li&gt;
+&lt;li&gt;佐藤貴晃, 宇佐美公良, “オンチップリークモニタ回路を用いたNBTI測定手法の提案と有効性”, 電子情報通信学会VLD研究会, 慶応大学（日吉）, 2014.1.29.&lt;/li&gt;
+&lt;li&gt;宇佐美公良, 工藤優, 松永健作, 小坂翼, 鶴井敬大, 王蔚涵, 天野英晴, 坂本龍一, 並木美太郎, 近藤正章, 中村宏, “細粒度パワーゲーティングを実装したCPU ”Geyser-3” の開発と温度に適応した電源遮断制御”, 電子情報通信学会VLD研究会（デザインガイア2013）, 鹿児島, 2013.11.28.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2012年度&#34;&gt;2012年度&lt;/h3&gt;
+
+&lt;h4 id=&#34;国際学会-2&#34;&gt;国際学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;R. Mitsuhashi, M. Kudo, K. Usami, &amp;quot;Leakage Energy Reduction of Sub-Threshold Circuits by Body Bias Control for Power Switch&amp;quot; , The 27th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;12), P-T2-27, Jul. 15-18, 2012.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内研究会-1&#34;&gt;国内研究会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;鶴井敬大, 橋田達徳, 武藤徹也, 島田祐樹, 宇佐美公良, &amp;quot;細粒度パワーゲーティングにおけるスリープ制御回路の消費電力低減化手法の検討と評価&amp;quot;, 電子情報通信学会VLD研究会, 2013年3月6日発表．&lt;/li&gt;
+&lt;li&gt;宮内　誠, 工藤　優, 宇佐美公良, &amp;quot;パワースイッチ駆動回路の自動生成と実装設計における評価&amp;quot;, 電子情報通信学会VLD研究会, 2013年1月16日発表．&lt;/li&gt;
+&lt;li&gt;松永健作, 工藤　優, 太田雄也, 小西奈緒, 天野英晴, 坂本龍一, 並木美太郎, 宇佐美公良, &amp;quot;オンチップ・リークモニタによるランタイム・パワーゲーティングの制御にむけた損益分岐点の評価&amp;quot;, 電子情報通信学会VLD研究会, 2013年1月16日発表．&lt;/li&gt;
+&lt;li&gt;網代慎也, 工藤　優, 宇佐美公良, &amp;quot;薄膜BOX-SOIにおける基板バイアス効果を利用した動的なマルチVth設計の検討&amp;quot;, 電子情報通信学会VLD研究会, 2013年1月16日発表．&lt;/li&gt;
+&lt;li&gt;小西奈緒, 宇佐美公良, &amp;quot;加算器アーキテクチャ比較・評価のための消費エネルギー解析モデルの提案&amp;quot;, 電子情報通信学会VLD研究会（デザインガイア）, 2012年11月27日発表．&lt;/li&gt;
+&lt;li&gt;工藤　優, 宇佐美公良, &amp;quot;仮想グランド線電圧の自動検出による細粒度パワーゲーティング制御&amp;quot;, 電子情報通信学会VLD研究会（デザインガイア）, 2012年11月28日発表．&lt;/li&gt;
+&lt;li&gt;安西　祥生, 工藤　優, 太田雄也, 太田一輝, 宇佐美公良, &amp;quot;超低電圧動作に向けたプロセッシングエレメントの消費エネルギーの実測と解析&amp;quot;, 電子情報通信学会VLD研究会（デザインガイア）, 2012年11月28日発表．&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2011年度&#34;&gt;2011年度&lt;/h3&gt;
+
+&lt;h4 id=&#34;国際学会-3&#34;&gt;国際学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;K. Usami, Y. Goto, K. Matsunaga, S. Koyama, D. Ikebuchi, H. Amano, H. Nakamura, &amp;quot;On-chip Detection Methodology for Break-Even Time of Power Gated Function Units&amp;quot; ,International Symposium on Low Power Electronics and Design (ISLPED 2011), 1-3 August 2011, Fukuoka, Japan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;招待講演&#34;&gt;招待講演&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;宇佐美公良, &amp;quot;「ゲーティング技術の最新動向」&amp;quot;, （2011年5月 電子情報通信学会 VLD研究会, VLD2011-4, 信学技報 vol.111 No.40, pp.19-24)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内学会&#34;&gt;国内学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;岡田賢二, 太田雄也，宇佐美公良, &amp;quot;リークモニタを用いた電源電圧制御によるプロセスばらつき補正手法&amp;quot;, （2012年3月 電子情報通信学会 総合大会，講演論文集 No.A-3-9）&lt;/li&gt;
+&lt;li&gt;古川大作, 宇佐美公良, &amp;quot;パワーゲーティング適用回路における、ウェーブスリープアウト手法を用いたグラウンドバウンス低減の研究&amp;quot;, （2012年3月 電子情報通信学会 総合大会，講演論文集 No.A-3-12）&lt;/li&gt;
+&lt;li&gt;石﨑智尋, 宇佐美公良, &amp;quot;超低電圧での動作に向けたレベルシフタ回路構造の検討&amp;quot;, （2011年9月 電子情報通信学会 ソサイエティ大会，講演論文集 No.A-3-8）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内研究会-2&#34;&gt;国内研究会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;早川勇輝, 宇佐美公良, &amp;quot;動的リコンフィギャラブルプロセッサにおける記憶回路の低消費電力化とDVFS手法の検討&amp;quot;, VLD2011-138, 信学技報 vol. 111 no. 450, pp.109-114, 2012年3月．&lt;/li&gt;
+&lt;li&gt;宮内誠, 工藤優，太田雄也，宇佐美公良, &amp;quot;遺伝的プログラミングを用いたグラウンドバウンス低減にむけたパワースイッチ駆動回路生成の検討&amp;quot;, VLD2011-142, 信学技報 vol. 111 no. 450, pp.133-138, 2012年3月．&lt;/li&gt;
+&lt;li&gt;三橋遼, 工藤優，太田雄也，宇佐美公良, &amp;quot;パワースイッチの基板電圧選択制御によるサブスレッショルド回路のリークエネルギー低減化&amp;quot;, VLD2011-144, 信学技報 vol. 111 no. 450, pp.145-150, 2012年3月．&lt;/li&gt;
+&lt;li&gt;太田雄也, 工藤優, 宇佐美公良, &amp;quot;トランジェントグリッチエネルギーを低減するパワーゲーティングの回路方式の検討&amp;quot;, VLD2011-90, 信学技報 vol. 111 no. 324, pp.221-226, 2011年11月．&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2010年度&#34;&gt;2010年度&lt;/h3&gt;
+
+&lt;h4 id=&#34;国際学会-4&#34;&gt;国際学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;T. Yamamoto, K. Hironaka, Y. Hayakawa, M. Kimura, H. Amano, K. Usami, &amp;quot;Dynamic VDD Switching Technique and Mapping Optimization in Dynamically Reconfigurable Processor for Efficient Energy Reduction&amp;quot; ,The 7th International Symposium on Applied Reconfigurable Computing (ARC2011) 23-25 March 2011, Belfast, United Kingdom, pp. 230-241&lt;/li&gt;
+&lt;li&gt;T.Ishizaki, K.Usami &amp;quot;Circuit Structure of Level Shifter for Sub-threshold Operation&amp;quot; ,The 25th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;10), pp. 653-656, Jul. 2010.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;招待講演-1&#34;&gt;招待講演&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;宇佐美公良, &amp;quot;LSIの低消費電力化技術「ゲーティング技術の最新動向」&amp;quot;, （2011年3月 電子情報通信学会 総合大会, 講演論文集 チュートリアル AT-1-1）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内学会-1&#34;&gt;国内学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;宮内誠, 宇佐美公良, &amp;quot;パワーゲーティング適用回路における遺伝的プログラミングを用いたグラウンドバウンスノイズ低減手法&amp;quot;, （2011年3月 電子情報通信学会 総合大会，講演論文集 No.C-12-28）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内研究会-3&#34;&gt;国内研究会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;武藤徹也, 宇佐美公良, &amp;quot;細粒度パワーゲーティングにおける履歴に基づいたスリープ制御方式の検討と評価&amp;quot;, VLD2010-121, 信学技報 vol. 110 no. 432, pp.31-36, 2011年3月．&lt;/li&gt;
+&lt;li&gt;山本辰也, 弘中和衛, 早川勇輝, 木村優之, 天野英晴, 宇佐美公良, &amp;quot;動的リコンフィギャラブルプロセッサにおける動的電源切替による電力削減効果とオーバーヘッドを低減するマッピング手法&amp;quot;, VLD2010-92, 信学技報 vol. 110 no. 360, pp.49-54, 2011年1月．&lt;/li&gt;
+&lt;li&gt;小西奈緒, 工藤優，宇佐美公良，&amp;quot;超低電圧領域における最適加算器アーキテクチャの検討,&amp;quot; VLD2010-81, 信学技報 vol. 110 no. 316, pp.173-178, 2010年11月．&lt;/li&gt;
+&lt;li&gt;宇佐美公良, 橋田達徳，&amp;quot;細粒度パワーゲーティングにおける損益分岐時間の温度依存性モデルと温度適応型制御,&amp;quot; VLD2010-8, 信学技報 vol. 110 no. 36, pp.73-78, 2010年5月．&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2009年度&#34;&gt;2009年度&lt;/h3&gt;
+
+&lt;h4 id=&#34;国際学会-5&#34;&gt;国際学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;K. Usami, T. Hashida, S. Koyama, T. Yamamoto, D. Ikebuchi, H. Amano,M. Namiki, M. Kondo, H. Nakamura, &amp;quot;Adaptive Power Gating for Function Units in a Microprocessor&amp;quot; ,in IEEE International Symposium on Quality Electronic Design (ISQED), pp. 29-37, March . 2010.
+EDN(Electronics Design, Strategy, News)の Executive editor のサイトに論文の記事が掲載されました &lt;a href=&#34;http://www.usamilab.ise.shibaura-it.ac.jp/1003EDN_ISQED10[1].pdf&#34;&gt;&amp;lt;抜粋PDF&amp;gt;&lt;/a&gt; &lt;a href=&#34;http://www.edn.com/blog/Practical_Chip_Design/37653-SoC_power_and_variations_exploring_fine_grained_voltage_manipulation.php&#34;&gt;&amp;lt;掲載&amp;gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;T.Muto, K.Usami &amp;quot;Effectiveness of Power Gating for a Superscalar processor&amp;quot; ,The 24rd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;09), pp. 420-423, Jul. 2009.&lt;/li&gt;
+&lt;li&gt;K.Usami, M.Nakata, T.Shirai, S.Takeda, N.Seki, H.Amano and H.Nakamura, &amp;quot;Adaptive Power Gating for Function Units in a Microprocessor&amp;quot; ,IEEE 2009 International Conference on Integrated Circuit Design and Technology (ICICDT&#39;09), pp. 7-10, May 2009.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;招待講演-2&#34;&gt;招待講演&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;宇佐美公良, &amp;quot;エマージングメモリデバイスとCMOSの機能融合による新しいコンピュータアーキテクチャの基礎：CMOS集積回路の低消費電力化技術&amp;quot;, 第70回 応用物理学会学術講演会, 2009年9月.&lt;/li&gt;
+&lt;li&gt;宇佐美公良, &amp;quot;パワーゲーティング設計の技術動向と課題&amp;quot;, VDECデザイナーズ・フォーラム特別講演,2009年6月6日. &lt;a href=&#34;http://www.vdec.u-tokyo.ac.jp/DesignersForum/Forum09.html&#34;&gt;&lt;VDECデザイナーズ・フォーラム2009&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内研究会-4&#34;&gt;国内研究会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;橋田達徳,小山慧，山本辰也，宇佐美公良，池淵大輔，天野英晴，並木美太郎，近藤正章，中村宏，&amp;quot;マイクロプロセッサ内の演算器に対する適応型パワーゲーティング,&amp;quot; 情報処理学会研究報告，vol.2010-ARC-187 no.2, pp.7-12，2010年1月.&lt;/li&gt;
+&lt;li&gt;馬橋雄祐, 佐野徹, 小山慧, 齋藤貴樹, 天野英晴, 宇佐美公良, &amp;quot;動的リコンフィギャラブルプロセッサにおける、2電源電圧の動的な割り当てによる電力削減機構の実装,&amp;quot; VLD2009-85, 信学技報 vol. 109 no. 393, pp.101-106, 2010年1月.&lt;/li&gt;
+&lt;li&gt;小山慧, 橋田達徳，宇佐美公良，池淵大輔，天野英晴，並木美太郎，近藤正章，中村宏，&amp;quot;MTCMOS回路を利用したオンチップ・リークモニタによるランタイム・パワーゲーティング回路の損益分岐点予測,&amp;quot; VLD2009-114, 信学技報 vol. 109 no. 462, pp.91-96, 2010年3月．&lt;/li&gt;
+&lt;li&gt;石﨑智尋, 小山慧, 宇佐美公良，&amp;quot;サブスレッショルド領域での動作に向けたレベルシフタ回路構造の検討,&amp;quot; VLD2009-101, 信学技報 vol. 109 no. 462, pp.13-18, 2010年3月.&lt;/li&gt;
+&lt;li&gt;太田雄也, 小山慧，橋田達徳，武藤徹也，山本辰也，宇佐美公良，&amp;quot;パワーゲーティングの実装方式がエネルギー削減効果に与える影響の解析,&amp;quot; VLD2009-113, 信学技報 vol. 109 no. 462, pp.85-90, 2010年3月．&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2008年度&#34;&gt;2008年度&lt;/h3&gt;
+
+&lt;h4 id=&#34;国際学会-6&#34;&gt;国際学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;K.Usami, T.Shirai, T.Hashida, H.Masuda, S.Takeda, M.Nakata, N.Seki, H.Amano, M.Namiki, M.Imai, M.Kondo and H.Nakamura, &amp;quot;Design and Implementation of Fine-grain Power Gating with Ground Bounce Suppression,&amp;quot; 22nd International Conference On VLSI Design (VLSI Conference&#39;09), pp. 381 - 386, Jan. 2009.&lt;/li&gt;
+&lt;li&gt;T.Shirai and K.Usami, &amp;quot;Hybrid Design of Dual Vth and Power Gating to Reduce Leakage Power under Vth Variations,&amp;quot; International SoC Design Conference 2008 (ISOCC&#39;08), pp. 310-313, Nov. 2008.&lt;/li&gt;
+&lt;li&gt;T.Hashida and K.Usami, &amp;quot;Power-Switch Clustering Method for Static Timing Analysis,&amp;quot; The 23rd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;08), pp. 217-220, Jul. 2008.&lt;/li&gt;
+&lt;li&gt;Y.Umahashi, Y.Kambayashi, M.Kato, Y.Hasegawa, H.Amano and K.Usami, &amp;quot;Power Reduction Technique for Dynamic Reconfigurable Processors with Dynamic Assignment of Dual Supply Voltages,&amp;quot; The 23rd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;08), pp. 213-216, Jul. 2008.&lt;/li&gt;
+&lt;li&gt;S.Koyama, S.Takeda and K.Usami, &amp;quot;Design and Analysis of On-chip Leakage Monitor using an MTCMOS circuit,&amp;quot; The 23rd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;08), pp. 205-208, Jul. 2008.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;招待講演-3&#34;&gt;招待講演&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;F.Jerry, K.Choi and K.Usami, &amp;quot;Power Gating for Ultra-low Leakage: Physics, Design, and Analysis,&amp;quot; Design, Automation and Test in Europe 2008 (DATE&#39;08), pp. xliii, Mar. 2008. &lt;IEEE Xplore&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;共同研究者による発表&#34;&gt;共同研究者による発表&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Naomi Seki (Keio Univ. Amano Lab.), Lei Zhao, Jo Kei, Daisuke Ikebuchi, Yu Kojima, Yohei Hasegawa, Hideharu Amano, Toshihiro Kashima, Seidai Takeda, Toshiaki Shirai, Mitustaka Nakata, Kimivoshi Usami, Tetsuya Sunata, Jun Kanai, Mitaro Namiki, Masaaki Kondo and Hiroshi Nakamura, &amp;quot;A Fine Grain Dynamic Sleep Control Scheme in MIPS R3000&amp;quot; the 26 IEEE International Conference on Computer Design (ICCD&#39;08), Oct. 2008.&lt;/li&gt;
+&lt;li&gt;金井遵(農工大並木研), 佐々木広, 近藤正章, 中村宏, 天野英晴, 宇佐美公良, 並木美太郎, &amp;quot;消費エネルギー予測によるマルチコア環境向け省電力化Linuxスケジューラ,&amp;quot; 情報処理学会 第20回コンピュータシステムシンポジウム, vol. 2008, no.12, pp. 77-86, 2008年11月&lt;/li&gt;
+&lt;li&gt;関直臣(慶応 天野研)，Lei Zhao，徐慧，長谷川揚平，天野英晴，宇佐美公良，並木美太郎，中村宏, &amp;quot;MIPS R3000 プロセッサにおける細粒度動的スリープ制御の実装と評価,&amp;quot; 情報処理学会 先進的計算基盤システムシンポジウム2008 (SACSIS2008), pp. 65-72, 2008年6月.&lt;/li&gt;
+&lt;li&gt;齊藤貴樹(慶応 天野研), 白井利明, 中村拓郎, 西村隆, 長谷川楊平, 堤聡, 香嶋俊裕, 中田光貴, 武田清大, 宇佐美公良, 天野英晴, &amp;quot;パワーゲーティングを適用した動的リコンフィギャラブルプロセッサの設計と評価,&amp;quot; 信学技報, vol.108, no.48, RECONF2008-10, pp. 55-60, 2008年5月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;小島悠(慶応 天野研), 池淵大輔, 関直臣, 長谷川揚平, 天野英晴, 香嶋俊裕, 武田清大, 白井利明, 中田光貴, 宇佐美公良, 砂田徹也, 金井遵, 並木美太郎, 近藤正章, 中村宏, &amp;quot;スーパースカラプロセッサにおける細粒度動的スリープ制御の実装と評価,&amp;quot; 情報処理学会研究報告, vol. 2008, no.39, 2008-ARC-178, pp. 87-92, 2008年5月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;金井遵(農工大 並木研), 佐々木広, 近藤正章, 中村宏, 天野英晴, 宇佐美公良, 並木美太郎, &amp;quot;性能予測モデルの学習と実行時性能最適化機構を有する省電力化スケジューラ,&amp;quot; 情報処理学会論文誌, vol.49, no.SIG2(ACS21), pp. 20-36, 2008年5月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;砂田徹也(農工大 並木研), 関直臣, 香嶋俊裕, 中田光貴, 近藤正章, 天野英晴, 宇佐美公良, 中村宏, 並木美太郎, &amp;quot;省電力MIPSプロセッサにおけるOSの試作とシミュレーションによる電力評価,&amp;quot; 情報処理学会研究報告 vol. 2008-OS-108, pp. 163-170, 2008年4月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内研究会-5&#34;&gt;国内研究会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;中田光貴, 白井利明, 武田清大, 宇佐美公良, &amp;quot;ランタイムパワーゲーティングを適用した低電力乗算器の設計試作及び実測による性能評価,&amp;quot; 信学技報, vol.108, no.478, VLD2008-162, pp. 213-218, 2009年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;小山慧, 宇佐美公良, &amp;quot;オンチップ・リークモニタの65nmプロセスでの実装設計と評価,&amp;quot; 信学技報, vol.108, no.478, VLD2008-163, pp. 219-224, 2009年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内学会-2&#34;&gt;国内学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;抱山冴子, 山本辰也, 橋田達徳, 白井利明, 宇佐美公良, &amp;quot;MTCMOS回路におけるパワースイッチの時間的共有化アルゴリズムの開発と評価,&amp;quot;電子情報通信学会東京支部学生会発表会, 2009年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;増田大樹, 白井利明・宇佐美公良, &amp;quot;太L-パワースイッチが消費電力と遅延に及ぼす影響,&amp;quot;電子情報通信学会2009総合大会, A-3-1, 2009年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;白井利明, 宇佐美公良, &amp;quot;低電圧パワーゲーティング回路の遅延ばらつき解析,&amp;quot;電子情報通信学会2009総合大会, A-3-2, 2009年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;山本辰也, 抱山冴子, 白井利明, 宇佐美公良, &amp;quot;スタティックタイミング解析を可能にするパワースイッチの時間的共有化手法,&amp;quot;電子情報通信学会2009総合大会, A-3-3, 2009年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;武藤徹也, 白井利明, 宇佐美公良, &amp;quot;命令レベル並列アーキテクチャを有するCPUにおけるパワーゲーティングの有効性に関する研究,&amp;quot;電子情報通信学会2009総合大会, D-6-4, 2009年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2007年度&#34;&gt;2007年度&lt;/h3&gt;
+
+&lt;h4 id=&#34;国内研究会-6&#34;&gt;国内研究会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;小山慧, 武田清大, 宇佐美公良, &amp;quot;MTCMOS回路を利用したオンチップ・リークモニタの設計と評価,&amp;quot; 信学技報, vol.107, no.507, VLD2007-146, pp. 13-18, 2008年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;白井利明, 香嶋俊裕, 武田清大, 中田光貴, 宇佐美公良, 長谷川揚平, 関直臣, 天野英晴, &amp;quot;ランタイムパワーゲーティングを適用したMIPS R3000プロセッサの実装設計と評価,&amp;quot; 信学技報, vol.107, no.414, VLD2007-112, pp. 43-48, 2008年1月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;中田光貴, 白井利明, 香嶋俊裕, 武田清大, 宇佐美公良, 関直臣, 長谷川揚平, 天野英晴, &amp;quot;ランタイムパワーゲーティングを適用した回路での検証環境と電力見積もり手法の構築,&amp;quot; 信学技報, vol.107, no.414, VLD2007-111, pp. 37-42, 2008年1月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;香嶋俊裕, 武田清大, 白井利明, 大久保直昭, 宇佐美公良, &amp;quot;走行時パワーゲーティングを適用した低消費電力乗算器の試作による電力評価,&amp;quot; 信学技報, vol.107, no. 195, ICD2007-80, pp. 63-68, 2007年8月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内学会-3&#34;&gt;国内学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;馬橋雄祐, 神林侑希, 宇佐美公良, 加東勝, 長谷川揚平, 天野英晴, &amp;quot;2電源電圧手法による動的リコンフィギャラブル・プロセッサの低消費電力化,&amp;quot;電子情報通信学会2008総合大会, D-18-4, 2008年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;大木亮, 高木一光, 宇佐美公良, &amp;quot;パワーゲーティング手法によるCPUのレジスタファイルの消費電力低減化技術,&amp;quot; 電子情報通信学会2008総合大会, A-3-11, 2008年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;橋田達徳, 宇佐美公良, &amp;quot;スタティックタイミング解析を可能にするパワースイッチ共有化手法,&amp;quot; 電子情報通信学会2008総合大会, A-3-10, 2008年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;会田真弘, 宇佐美公良, &amp;quot;パワースイッチの実現方式が速度と消費電力に及ぼす影響の研究,&amp;quot; 電子情報通信学会2008総合大会, A-3-9, 2008年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;招待講演-4&#34;&gt;招待講演&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;宇佐美公良,「SoC低消費電力設計の技術動向」,シーケンスデザイン Design for Power (DFP) セミナー 2007, 2007年11月.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;共同研究者による発表-1&#34;&gt;共同研究者による発表&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;金井遵(農工大 並木研), 佐々木広, 近藤 正章, 中村宏, 天野英晴, 宇佐美公良, 並木美太郎, &amp;quot;性能予測モデルの学習と実行時性能最適化機構を有する省電力化スケジューラ,&amp;quot; 情報処理学会 コンピュータシステムシンポジウム2007, Vol. 2007, No.14, pp. 173-182, 2008年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;関直臣(慶応 天野研), Lei Zhao, 徐慧, 池淵大輔, 小島悠, 長谷川揚平, 天野英晴, 香嶋俊裕, 武田清大, 白井利明, 中田光貴, 宇佐美公良, 砂田徹也, 金井遵, 並木美太郎, 近藤正章, 中村宏, &amp;quot;MIPS R3000 プロセッサにおける細粒度動的スリープ制御の実装と評価,&amp;quot; 情報処理学会研究報告 2008-ARC-176, pp. 71-76, 2008年1月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;関直臣(慶応 天野研), Lei Zhaoy, 徐慧, 長谷川揚平, 天野英晴, 大久保直昭, 武田清大, 香嶋俊裕, 白井利明, 宇佐美公良, 近藤正章, 中村宏, &amp;quot;MIPS R3000 における細粒度動的スリープ方式の提案,&amp;quot; 情報処理学会 DAシンポジウム2007, No.7, pp. 91-96, 2007年8月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;中村宏(東大 南谷中村研), 天野英晴, 宇佐美公良, 並木美太郎, 今井雅, 近藤正章, &amp;quot;革新的電源制御による超低消費電力高性能システムLSIの構想,&amp;quot; 電子情報通信学会研究報告，2007-ARC-173，pp. 79-84，2007年5月． &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;技術雑誌-記事&#34;&gt;技術雑誌(記事)&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;宇佐美公良, 「すべてのLSIに低消費電力設計」, 日経マイクロデバイス 2007年6月号(日経BP), pp. 26-29.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2006年度&#34;&gt;2006年度&lt;/h3&gt;
+
+&lt;h4 id=&#34;国際学会-7&#34;&gt;国際学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;K.Usami, &amp;quot;Overview on Low Power SoC Design Technology,&amp;quot; (invited paper), IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC&#39;07), pp. 634-636, Jun. 2007. &lt;IEEE Xplore&gt;&lt;/li&gt;
+&lt;li&gt;K.Usami and N.Ohkubo, &amp;quot;A Design Approach for Fine-grained Run-Time Power Gating using Locally Extracted Sleep Signals,&amp;quot; IEEE International Conference on Computer Design (ICCD&#39;06), pp. 155-161, Oct. 2006. &lt;IEEE Xplore&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;英文論文誌&#34;&gt;英文論文誌&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;N.Ohkubo and K.Usami, &amp;quot;Delay Modeling and Critical-path Delay Calculation for MTCMOS Circuits,&amp;quot; IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (Special Section on VLSI Design and CAD Algorithms), Vol.E89-A, NO.12, pp. 3482-3490, Dec. 2006. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内研究会-7&#34;&gt;国内研究会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;武田清大, 香嶋俊裕, 白井利明, 大久保直昭, 宇佐美公良, &amp;quot;ランタイムパワーゲーティングを適用した乗算器を用いた消費電力に影響を与える要因の解析,&amp;quot; 電子信学技報, vol.106, no.549, VLD2006-154, pp. 81-85, 2007年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;武田清大, 香嶋俊裕, 大久保直昭, 白井利明, 宇佐美公良, &amp;quot;走行時パワーゲーティングを適用した低消費電力乗算器の物理設計と試作,&amp;quot; 電子信学技報, vol.106, no.389, VLD2006-74, pp. 13-18, 2006年11月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;香嶋俊裕,武田清大, 大久保直昭, 白井利明, 宇佐美公良, &amp;quot;走行時パワーゲーティングを適用した低消費電力乗算器のアーキテクチャ設計,&amp;quot; 電子信学技報, vol.106, no.389, VLD2006-73, pp. 7-12, 2006年11月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;大久保直昭, 宇佐美公良, &amp;quot;細粒度動的スリープ制御による動作時リーク電力低減手法,&amp;quot; 情報処理学会 DAシンポジウム2006, 2006年7月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内学会-4&#34;&gt;国内学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;小峰健太郎, 田中功明, 宇佐美公良, &amp;quot;COMET II-CPUのパイプライン設計と評価,&amp;quot; 電子情報通信学会講演論文集, Vol. 2007年_基礎・境界(20070307) pp. 6, 2007年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;伊藤総一, 宇佐美公良, &amp;quot;パワースイッチを共有したMTCMOS回路の遅延時間解析手法,&amp;quot; 電子情報通信学会講演論文集, Vol. 2007年_基礎・境界(20070307) pp. 98, 2007年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;白井利明, 宇佐美公良, &amp;quot;LSIの動的スリープ制御における高速復帰技術,&amp;quot; 電子情報通信学会講演論文集, Vol. 2007年_基礎・境界(20070307) pp. 103, 2007年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;桐原啓介, 宇佐美公良, &amp;quot;FPGAを利用した動的スリープ制御信号の動作解析,&amp;quot; 電子情報通信学会講演論文集, Vol. 2007年_基礎・境界(20070307) pp. 104, 2007年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;秋元裕美, 野島俊孝, 宇佐美公良, &amp;quot;2電源を用いたFPGAにおける消費電力低減化技術,&amp;quot; 電子情報通信学会講演論文集, Vol. 2007年_基礎・境界(20070307) pp. 105, 2007年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;招待講演-5&#34;&gt;招待講演&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;宇佐美公良, &amp;quot;低消費電力設計の最新動向 : 回路と物理設計レベルの低消費電力化技術(AT-1.低消費電力設計の最新動向,チュートリアル講演,ソサイエティ企画),&amp;quot; 電子情報通信学会講演論文集, Vol. 2007年_基礎・境界(20070307) pp. &amp;quot;SS-33&amp;quot;-&amp;quot;SS-34&amp;quot;, 2007年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;技術雑誌-記事-1&#34;&gt;技術雑誌(記事)&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;宇佐美公良, 「デバイス設計の視点で見た低消費電力技術」, Design Wave 2006年10月号(CQ出版), pp. 58-68&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;著書&#34;&gt;著書&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;K.Usami and T.Sakurai, Methodologies for Power Gating, Leakage in Nanometer CMOS Technologies, (edited by S.Narendra, A.Chandrakasan), pp. 77-104, Springer, 2006. &lt;Springer Site&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2005年度&#34;&gt;2005年度&lt;/h3&gt;
+
+&lt;h4 id=&#34;国際学会-8&#34;&gt;国際学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;N.Ohkubo and K.Usami, &amp;quot;Delay Modeling and Static Timimg Analysis for MTCMOS Circuits,&amp;quot; IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC&#39;06), Jan. 2006. &lt;IEEE Xplore&gt;&lt;/li&gt;
+&lt;li&gt;K.Usami, N.Ohkubo and M.Shirakawa, &amp;quot;Analysis on MTCMOS Circuits based on Lumped RC Model for Virtual Ground Line,&amp;quot; IEEE International SoC Design Conference 2005 (ISOCC&#39;05), pp. 116-119, Oct. 2005.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内研究会-8&#34;&gt;国内研究会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;宇佐美公良, &amp;quot;[招待講演]高位設計における低消費電力技術,&amp;quot; 信学技報, vol.105, no.57, VLD2005-5, pp. 25-30, 2005年5月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;大久保直昭, 宇佐美公良, &amp;quot;MTCMOS回路における遅延時間モデリングと静的タイミング解析への応用手法,&amp;quot; 信学技報, vol.105, no.234, ICD2005-77, pp. 61-66, 2005年8月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内学会-5&#34;&gt;国内学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;香嶋俊裕, 杉浦巧一, 宇佐美公良, &amp;quot;COMETⅡ-CPUの設計とFPGAへの実装実験,&amp;quot; 電子情報通信学会東京支部学生会発表会, 2006年3月.&lt;/li&gt;
+&lt;li&gt;武田清大, 宇佐美公良, &amp;quot;動的スリープ制御方式の実装と解析,&amp;quot; 電子情報通信学会講演論文集, Vol. 2006年_基礎・境界(20060308) pp. 72, 2006年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;溝口徳洋, 宇佐美公良, &amp;quot;パイプライン, ストールに着目した動的スリープ制御高速化技術,&amp;quot; 電子情報通信学会講演論文集, Vol. 2006年_基礎・境界(20060308) pp. 71, 2006年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;春日正弥, 斉藤直也, 宇佐美公良, &amp;quot;CPUデータパスの動的スリープ制御技術,&amp;quot; 電子情報通信学会講演論文集, Vol. 2006年_基礎・境界(20060308) pp. 70, 2006年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2004年度&#34;&gt;2004年度&lt;/h3&gt;
+
+&lt;h4 id=&#34;国際学会-9&#34;&gt;国際学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;K.Usami and H.Yoshioka, &amp;quot;A Scheme to Reduce Active Leakage Power by Detecting State Transitions,&amp;quot; IEEE International Midwest Symposium on Circuits and Systems 2004 (MWSCAS&#39;04), pp. I-493-496, Jul. 2004. &lt;IEEE Xplore&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;英文論文誌-1&#34;&gt;英文論文誌&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;K.Usami and H.Yoshioka, &amp;quot;Dynamic Sleep Control for Finite-State-Machines to Reduce Active Leakage Power,&amp;quot; IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (Special Section on VLSI Design and CAD Algorithms), pp. 3116-3123, Dec. 2004. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;国内学会-6&#34;&gt;国内学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;山岸信久, 宇佐美公良， &amp;quot;配置最適化によるFPGAの低消費電力手法,&amp;quot; 電子情報通信学会講演論文集，Vol. 2005年_基礎・境界(20050307) p.71, 2005年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;大久保直昭, 宇佐美公良， &amp;quot;仮想グランド線長を考慮したMTCMOS回路の遅延時間解析,&amp;quot; 電子情報通信学会講演論文集，Vol. 2005年_基礎・境界(20050307) p.70, 2005年3月. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;青島桃子, 宇佐美公良， &amp;quot;FPGA上でのCPU実装実験と低消費電力設計,&amp;quot; 電子情報通信学会東京支部学生会発表会，2005年3月.&lt;/li&gt;
+&lt;li&gt;白川将嗣, 宇佐美公良， &amp;quot;MTCMOS回路における遅延解析,&amp;quot; 電子情報通信学会東京支部学生会発表会，2005年3月.&lt;/li&gt;
+&lt;li&gt;森勇児, 宇佐美公良， &amp;quot;CPUのデータパスに着目した動作時リーク電力削減手法,&amp;quot; 電子情報通信学会東京支部学生会発表会，2005年3月. 学生奨励賞受賞&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2003年度&#34;&gt;2003年度&lt;/h3&gt;
+
+&lt;h4 id=&#34;国内学会-7&#34;&gt;国内学会&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;吉岡宏, 宇佐美公良， &amp;quot;スリープトランジスタ制御による動的リーク電力の削減手法,&amp;quot; 電子情報通信学会東京支部学生会発表会，2004年3月. 学生奨励賞受賞&lt;/li&gt;
+&lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>LSIの低消費電力化</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/project/low_energy_techniques/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/project/low_energy_techniques/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>不揮発性素子</title>
-      <link>/ja/project/non_voliting/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:01 +0900</pubDate>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/project/non_voliting/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0900</pubDate>
       
-      <guid>/ja/project/non_voliting/</guid>
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/project/non_voliting/</guid>
       <description>
 
 &lt;h3 id=&#34;不揮発性素子とは&#34;&gt;不揮発性素子とは&lt;/h3&gt;
@@ -89,14 +426,14 @@
     </item>
     
     <item>
-      <title>パワーゲーティング</title>
-      <link>/ja/project/power_gating/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0900</pubDate>
+      <title>動的再構成プロセッサ</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/project/dynamic_reconfigrable_processor/</link>
+      <pubDate>Wed, 01 Aug 2018 00:01:00 +0900</pubDate>
       
-      <guid>/ja/project/power_gating/</guid>
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/project/dynamic_reconfigrable_processor/</guid>
       <description>
 
-&lt;h3 id=&#34;パワーゲーティングとは&#34;&gt;パワーゲーティングとは&lt;/h3&gt;
+&lt;h3 id=&#34;アプロキシメートコンピューティングとは&#34;&gt;アプロキシメートコンピューティングとは&lt;/h3&gt;
 
 &lt;p&gt;aaa&lt;/p&gt;
 
@@ -115,220 +452,14 @@
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/ja/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
-      
-      <guid>/ja/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>卒業生</title>
-      <link>/ja/member/alumni/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
-      
-      <guid>/ja/member/alumni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>その他</title>
-      <link>/ja/project/example-external-project/</link>
+      <title>5大学連携プロジェクト</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>/ja/project/example-external-project/</guid>
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/project/external-project/</guid>
       <description>
 
 &lt;h1 id=&#34;5大学連携プロジェクト&#34;&gt;5大学連携プロジェクト&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/ja/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>/ja/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Ocean&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Dark&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
-  &lt;/a&gt;
-  
-  
-  
-  
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;1950s&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
-  &lt;/a&gt;
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
-&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
-&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
-&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
-
-&lt;p&gt;Prerequisites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd My_Website
-git submodule update --init --recursive
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
-
-&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
-
-&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
     

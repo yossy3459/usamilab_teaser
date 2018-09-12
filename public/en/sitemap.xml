@@ -5,10 +5,22 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/en/categories/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/ja/categories/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/old_publication/list/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/old_publication/list/" hreflang="ja"/>
     
-      <loc>/en/categories/</loc>
+      <loc>https://yossy3459.github.io/usamilab-teaser/en/old_publication/list/</loc>
+      <lastmod>2018-08-10T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/categories/" hreflang="ja"/>
+    
+      <loc>https://yossy3459.github.io/usamilab-teaser/en/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -17,10 +29,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/en/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/ja/publication_types/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/old_publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/old_publication/" hreflang="ja"/>
     
-      <loc>/en/publication_types/</loc>
+      <loc>https://yossy3459.github.io/usamilab-teaser/en/old_publication/</loc>
+      <lastmod>2018-08-10T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -29,10 +42,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/en/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/ja/tags/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/publication_types/" hreflang="ja"/>
     
-      <loc>/en/tags/</loc>
+      <loc>https://yossy3459.github.io/usamilab-teaser/en/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -41,10 +54,23 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/en/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/ja/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/tags/" hreflang="ja"/>
     
-      <loc>/en/</loc>
+      <loc>https://yossy3459.github.io/usamilab-teaser/en/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/en/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://yossy3459.github.io/usamilab-teaser/ja/" hreflang="ja"/>
+    
+      <loc>https://yossy3459.github.io/usamilab-teaser/en/</loc>
+      <lastmod>2017-10-15T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     

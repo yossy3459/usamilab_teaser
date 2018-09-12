@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Old_publications on Usami Lab.</title>
+    <link>https://yossy3459.github.io/usamilab-teaser/en/old_publication/</link>
+    <description>Recent content in Old_publications on Usami Lab.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
+    <lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://yossy3459.github.io/usamilab-teaser/en/old_publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Old Publications</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/old_publication/list/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/old_publication/list/</guid>
+      <description>Conference Publication K. Usami, Y. Goto, K. Matsunaga, S. Koyama, D. Ikebuchi, H. Amano, H. Nakamura, &amp;quot;On-chip Detection Methodology for Break-Even Time of Power Gated Function Units&amp;quot; ,International Symposium on Low Power Electronics and Design (ISLPED 2011), 1-3 August 2011, Fukuoka, Japan (to appear) T. Yamamoto, K. Hironaka, Y. Hayakawa, M. Kimura, H. Amano, K. Usami, &amp;quot;Dynamic VDD Switching Technique and Mapping Optimization in Dynamically Reconfigurable Processor for Efficient Energy</description>
+    </item>
+    
+  </channel>
+</rss>

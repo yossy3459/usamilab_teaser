@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Usami Lab.</title>
+    <link>https://yossy3459.github.io/usamilab-teaser/en/home/</link>
+    <description>Recent content in Homes on Usami Lab.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://yossy3459.github.io/usamilab-teaser/en/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Usami Lab.</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/home/hero/</guid>
+      <description>Computer Architecture Lab. (Usami Lab.)
+Information Science and Engineering, Faculty of Engineering, Shibaura Institute of Technology, Japan The most advanced computers are now confronted with a serious crisis
+--- Performance cannot be further raised due to their Power Dissipation.
+In order to effectively reduce power while achieving high performance, what design technology should we use?
+We are challenging this research topic from architecture and circuit design techniques up to LSI design methodologies.</description>
+    </item>
+    
+    <item>
+      <title>Latest information</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/home/posts/</guid>
+      <description> 2018/08/XX The homepage has been redesigned.  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/home/projects/</guid>
+      <description>Comming Soon...</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/home/publications/</guid>
+      <description>Old Publications...</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/home/biography/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/home/biography/</guid>
+      <description>Prof&#39;s Biography Dr. Kimiyoshi Usami is a full professor at Shibaura Institute of Technology. His current research projects are in the area of architecture and circuit-level design techniques,design methodologies and CAD techniques for low power processor design.
+One of the major topics that he is focusing on is run-time leakage power control. In the total power dissipation in CMOS LSI chips, dynamic (or switching) power has been a major contributor so far.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/home/member/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/home/member/</guid>
+      <description> 2018 Members (15th) 2nd year of a Master&#39;s degree  Ryota Horigome Ryo Magasaki  1st year of a Master&#39;s degree  Sousuke Akiba Hajime Ochi Daisuke Sato Naoto Shinozaki Yuuki Takeyoshi  Under Graduate  Hikoyuki Araki Hiroki Ishihara Takeya Kawamura Shuuhei Kitada Yoshinori Ono Tatsuya Watanabe Wataru Watanabe  </description>
+    </item>
+    
+    <item>
+      <title>Laboratory&#39;s Life</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/home/lablife/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/home/lablife/</guid>
+      <description> Coming Soon... </description>
+    </item>
+    
+    <item>
+      <title>Lecture</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/home/teaching/</guid>
+      <description> First Semester    Grade Subject Day Period Campus Syllabus     2nd Computer Architecture 2 Mon 4th Omiya Link   3rd Advanced Exercise on Computer and Information Science 1A Wed 3rd, 4th Toyosu Link   3rd Engineering on Integrated Circuit Thu 4th Toyosu Link    Second Semester    Grade Subject Day Period Campus Syllabus     Master Advanced Computer Architecture (en) Mon 4th Toyosu Link   1st Computer Architecture 1 Tue 2nd Omiya Link   2nd Fundamental Exercise on Computer and Information Science 2B Tue 3rd, 4th Omiya Link   Master Advanced Computer Architecture (ja) Thu 3rd Toyosu Link   3rd Pre-Seminar on Graduation Thesis Fri 4th Toyosu Link    </description>
+    </item>
+    
+    <item>
+      <title>Link</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/home/link/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/home/link/</guid>
+      <description> Shibaura Institute Of Technology (SIT) Dept. Information Science and Engineering  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Usami Lab.</title>
+    <link>https://yossy3459.github.io/usamilab-teaser/ja/tags/design/</link>
+    <description>Recent content in Design on Usami Lab.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://yossy3459.github.io/usamilab-teaser/ja/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LSIの低消費電力化</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/project/low_energy_techniques/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/project/low_energy_techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>不揮発性素子</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/project/non_voliting/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/project/non_voliting/</guid>
+      <description>不揮発性素子とは aaa bbb ccc 研究例 aaa bbb ccc</description>
+    </item>
+    
+  </channel>
+</rss>

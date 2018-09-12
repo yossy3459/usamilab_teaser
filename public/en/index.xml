@@ -2,12 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Usami Lab. on Usami Lab.</title>
-    <link>/en/</link>
+    <link>https://yossy3459.github.io/usamilab-teaser/en/</link>
     <description>Recent content in Usami Lab. on Usami Lab.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
-    <atom:link href="/en/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    <atom:link href="/usamilab-teaser/en/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Old Publications</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/en/old_publication/list/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/en/old_publication/list/</guid>
+      <description>
+
+&lt;h3 id=&#34;conference-publication&#34;&gt;Conference Publication&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;K. Usami, Y. Goto, K. Matsunaga, S. Koyama, D. Ikebuchi, H. Amano, H. Nakamura, &amp;quot;On-chip Detection Methodology for Break-Even Time of Power Gated Function Units&amp;quot; ,International Symposium on Low Power Electronics and Design (ISLPED 2011), 1-3 August 2011, Fukuoka, Japan (to appear)&lt;/li&gt;
+&lt;li&gt;T. Yamamoto, K. Hironaka, Y. Hayakawa, M. Kimura, H. Amano, K. Usami, &amp;quot;Dynamic VDD Switching Technique and Mapping Optimization in Dynamically Reconfigurable Processor for Efficient Energy Reduction&amp;quot; ,The 7th International Symposium on Applied Reconfigurable Computing (ARC2011) 23-25 March 2011, Belfast, United Kingdom, pp. 230-241&lt;/li&gt;
+&lt;li&gt;T.Ishizaki, K.Usami &amp;quot;Circuit Structure of Level Shifter for Sub-threshold Operation&amp;quot; ,The 25th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;10), pp. 653-656, Jul. 2010.&lt;/li&gt;
+&lt;li&gt;K. Usami, T. Hashida, S. Koyama, T. Yamamoto, D. Ikebuchi, H. Amano,M. Namiki, M. Kondo, H. Nakamura, &amp;quot;Adaptive Power Gating for Function Units in a Microprocessor&amp;quot; ,in IEEE International Symposium on Quality Electronic Design (ISQED), pp. 29-37, March . 2010.
+Executive editor site of EDN(Electronics Design, Strategy, News) &amp;lt;抜粋PDF&amp;gt; &amp;lt;掲載&amp;gt;&lt;/li&gt;
+&lt;li&gt;T.Muto, K.Usami &amp;quot;Effectiveness of Power Gating for a Superscalar processor&amp;quot; ,The 24rd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;09), pp. 420-423, Jul. 2009.&lt;/li&gt;
+&lt;li&gt;K.Usami, M.Nakata, T.Shirai, S.Takeda, N.Seki, H.Amano and H.Nakamura, &amp;quot;Adaptive Power Gating for Function Units in a Microprocessor&amp;quot; ,IEEE 2009 International Conference on Integrated Circuit Design and Technology (ICICDT&#39;09), pp. 7-10, May 2009.&lt;/li&gt;
+&lt;li&gt;K.Usami, T.Shirai, T.Hashida, H.Masuda, S.Takeda, M.Nakata, N.Seki, H.Amano, M.Namiki, M.Imai, M.Kondo and H.Nakamura, &amp;quot;Design and Implementation of Fine-grain Power Gating with Ground Bounce Suppression,&amp;quot; 22nd International Conference On VLSI Design (VLSI Conference&#39;09), Jan. 2009.&lt;/li&gt;
+&lt;li&gt;T.Shirai and K.Usami, &amp;quot;Hybrid Design of Dual Vth and Power Gating to Reduce Leakage Power under Vth Variations,&amp;quot; International SoC Design Conference 2008 (ISOCC&#39;08), pp. 310-313, 25 Nov. 2008.&lt;/li&gt;
+&lt;li&gt;Naomi Seki (Keio Univ. Amano Lab.), Lei Zhao, Jo Kei, Daisuke Ikebuchi, Yu Kojima, Yohei Hasegawa, Hideharu Amano, Toshihiro Kashima, Seidai Takeda, Toshiaki Shirai, Mitustaka Nakata, Kimivoshi Usami, Tetsuya Sunata, Jun Kanai, Mitaro Namiki, Masaaki Kondo and Hiroshi Nakamura, &amp;quot;A Fine Grain Dynamic Sleep Control Scheme in MIPS R3000&amp;quot; the 26 IEEE International Conference on Computer Design (ICCD&#39;08), Oct. 2008.&lt;/li&gt;
+&lt;li&gt;T.Hashida and K.Usami, &amp;quot;Power-Switch Clustering Method for Static Timing Analysis,&amp;quot; The 23rd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;08), pp. 217-220, Jul. 2008.&lt;/li&gt;
+&lt;li&gt;Y.Umahashi, Y.Kambayashi, M.Kato, Y.Hasegawa, H.Amano and K.Usami, &amp;quot;Power Reduction Technique for Dynamic Reconfigurable Processors with Dynamic Assignment of Dual Supply Voltages,&amp;quot; The 23rd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;08), pp. 213-216, Jul. 2008.&lt;/li&gt;
+&lt;li&gt;S.Koyama, S.Takeda and K.Usami, &amp;quot;Design and Analysis of On-chip Leakage Monitor using an MTCMOS circuit,&amp;quot; The 23rd International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC&#39;08), pp. 205-208, Jul. 2008.&lt;/li&gt;
+&lt;li&gt;K.Usami and N.Ohkubo, &amp;quot;A Design Approach for Fine-grained Run-Time Power Gating using Locally Extracted Sleep Signals,&amp;quot; IEEE International Conference on Computer Design (ICCD&#39;06), pp. 155-161, Oct. 2006. &lt;IEEE Xplore&gt;&lt;/li&gt;
+&lt;li&gt;N.Ohkubo and K.Usami, &amp;quot;Delay Modeling and Static Timimg Analysis for MTCMOS Circuits,&amp;quot; IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC&#39;06), Jan. 2006. &lt;IEEE Xplore&gt;&lt;/li&gt;
+&lt;li&gt;K.Usami, N.Ohkubo and M.Shirakawa, &amp;quot;Analysis on MTCMOS Circuits based on Lumped RC Model for Virtual Ground Line,&amp;quot; IEEE International SoC Design Conference 2005 (ISOCC&#39;05), pp. 116-119, Oct. 2005.&lt;/li&gt;
+&lt;li&gt;K.Usami and H.Yoshioka, &amp;quot;A Scheme to Reduce Active Leakage Power by Detecting State Transitions,&amp;quot; IEEE International Midwest Symposium on Circuits and Systems 2004 (MWSCAS&#39;04), pp. I-493-496, Jul. 2004. &lt;IEEE Xplore&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;journal-papers&#34;&gt;Journal Papers&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;N.Ohkubo and K.Usami, &amp;quot;Delay Modeling and Critical-path Delay Calculation for MTCMOS Circuits,&amp;quot; IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (Special Section on VLSI Design and CAD Algorithms), Vol.E89-A, NO.12, pp. 3482-3490, Dec. 2006. &lt;CiNii&gt;&lt;/li&gt;
+&lt;li&gt;K.Usami and H.Yoshioka, &amp;quot;Dynamic Sleep Control for Finite-State-Machines to Reduce Active Leakage Power,&amp;quot; IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (Special Section on VLSI Design and CAD Algorithms), pp. 3116-3123, Dec. 2004. &lt;CiNii&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;F.Jerry, K.Choi and K.Usami, &amp;quot;Power Gating for Ultra-low Leakage: Physics, Design, and Analysis,&amp;quot; Design, Automation and Test in Europe 2008 (DATE&#39;08), pp. xliii, Mar. 2008. &lt;IEEE Xplore&gt;&lt;/li&gt;
+&lt;li&gt;K.Usami, &amp;quot;Overview on Low Power SoC Design Technology,&amp;quot; IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC&#39;07), pp. 634-636, Jun. 2007. &lt;IEEE Xplore&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;K.Usami and T.Sakurai, &amp;quot;Methodologies for Power Gating,&amp;quot; Leakage in Nanometer CMOS Technologies, (edited by S.Narendra, A.Chandrakasan), pp. 77-104, Springer, 2006. &lt;Springer Site&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

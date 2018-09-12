@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coop on Usami Lab.</title>
+    <link>https://yossy3459.github.io/usamilab-teaser/ja/tags/coop/</link>
+    <description>Recent content in Coop on Usami Lab.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2005-2018 Usami-Lab</copyright>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://yossy3459.github.io/usamilab-teaser/ja/tags/coop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>不揮発性素子</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/project/non_voliting/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/project/non_voliting/</guid>
+      <description>不揮発性素子とは aaa bbb ccc 研究例 aaa bbb ccc</description>
+    </item>
+    
+    <item>
+      <title>動的再構成プロセッサ</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/project/dynamic_reconfigrable_processor/</link>
+      <pubDate>Wed, 01 Aug 2018 00:01:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/project/dynamic_reconfigrable_processor/</guid>
+      <description>アプロキシメートコンピューティングとは aaa bbb ccc 研究例 aaa bbb ccc</description>
+    </item>
+    
+    <item>
+      <title>5大学連携プロジェクト</title>
+      <link>https://yossy3459.github.io/usamilab-teaser/ja/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://yossy3459.github.io/usamilab-teaser/ja/project/external-project/</guid>
+      <description>5大学連携プロジェクト</description>
+    </item>
+    
+  </channel>
+</rss>
